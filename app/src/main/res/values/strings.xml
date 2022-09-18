@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BebeApp</string>
+    <string name="action_impostazioni">Impostazioni</string>
+    <string name="action_ripristina">Ripristina</string>
+    <string name="action_inizio_allattamento">Inizio poppata</string>
+    <string name="note">NOTE</string>
+    <string name="action_fine_allattamento">La poppata è durata: </string>
+    <string name="minuti">minuti</string>
+    <string name="reset">Vuoi cancellare tutti i dati?</string>
+    <string name="ok">si</string>
+    <string name="cancel">no</string>
+    <string name="durata">DURATA</string>
+    <string name="ORA">ORA</string>
+    <string name="GIORNO">GIORNO</string>
+    <string name="attivita">ATTIVITA</string>
+    <string name="DURATA">DURATA</string>
+</resources>
